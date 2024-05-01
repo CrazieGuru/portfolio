@@ -63,7 +63,7 @@
     transition: .4s;
 }
 
-@media (max-width:768px) {
+@media (max-width:1080px) {
     .services{
         align-items: start;
         gap: 70px;
