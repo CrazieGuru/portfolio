@@ -23,6 +23,11 @@ const Services_Data =[
         s_no:"05",
         s_name:"Social Media",
         s_desc:"Web development is process of building, programming"
+    },
+    {
+        s_no:"06",
+        s_name:"Business Portal",
+        s_desc:"Web development is process of building, programming"
     }
 ]
 
