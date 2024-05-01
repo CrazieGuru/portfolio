@@ -65,7 +65,7 @@
 }
 
 
-@media (max-width:768px) {
+@media (max-width:1080px) {
     .footer{
         margin: 50px 70px;
     }
