@@ -14,13 +14,10 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>Experianced in Python language in IT Industry, Profi cient in developing web 
-                        applications using Python frameworks such as Django. Skilled in front-end 
-                        development with expertise in HTML, CSS, and JavaScript. Experienced in 
-                        database management systems including MySQL and SQLite. Adept at problem-solving and 
-                        debugging, with a strong understanding of software development lifecycle. 
-                        Passionate about learning new technologies and staying updated with industry trends 
-                        to drive continuous improvement in software development practices.</p>
+                    <p>Experianced in Python language in IT Industry, Profi cient in developing web applications using Python frameworks such as Django.</p>
+                    <p>Skilled in front-end development with expertise in HTML, CSS, and JavaScript. Experienced in database management systems including MySQL and SQLite.</p>
+                    {/* <p>Adept at problem-solving and debugging, with a strong understanding of software development lifecycle.</p>
+                    <p>Passionate about learning new technologies and staying updated with industry trends to drive continuous improvement in software development practices.</p> */}
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"80%"}}/></div>

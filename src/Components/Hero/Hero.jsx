@@ -18,12 +18,13 @@ const Hero = () => {
           experiance in multiple companies.
         </p>
         <div className="hero-action">
+          <div className="hero-resume">&#8594;</div>
           <div className="hero-connect">
             <AnchorLink className="anchor-link" offset={50} href="#contact">
               Connect with me
             </AnchorLink>
           </div>
-          <div className="hero-resume">My Resume</div>
+          <div className="hero-resume">&#8592;</div>
         </div>
       </div>
   );

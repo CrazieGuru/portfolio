@@ -60,6 +60,7 @@
 @media (max-width:1080px) {
     .navbar{
         margin: 20px 50px;
+        
     }
     .nav-connect{
         display: none;
